@@ -1,8 +1,7 @@
+This is a fork of: [https://github.com/sabrio/ng2-validation-manager](https://github.com/sabrio/ng2-validation-manager).
+
 
 <h1>ng2-validation-manager</h1>
-
-     
-This is a fork of: [https://github.com/sabrio/ng2-validation-manager](https://github.com/sabrio/ng2-validation-manager).
 
 
 <p><strong>ng2-validation-manager</strong> is simple and flexible library for reactive form validation in angular 2+</p>
